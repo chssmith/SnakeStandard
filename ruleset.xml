@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<ruleset name="SnakeStandard">
+  <description>A custom coding standard for snake case variables.</description>
+  <rule ref="SnakeStandard.NamingConventions.EnforceSnakeCaseVariables" />
+</ruleset>
